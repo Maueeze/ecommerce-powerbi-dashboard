@@ -1,3 +1,7 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![SQL](https://img.shields.io/badge/SQL-SQLite-blue)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+
 # 🚀 E-commerce Analytics Dashboard (Power BI)
 
 ## 📊 Project Overview
@@ -87,4 +91,18 @@ This project was created as part of a data analytics portfolio to demonstrate:
 - SQL data transformation skills  
 - Data modelling and feature engineering  
 - Dashboard design and storytelling  
-- Business insight generation  
+- Business insight generation
+
+---
+
+## ▶️ How to Use
+
+1. Download the `.pbix` file from the `dashboard/` folder
+2. Open it in Power BI Desktop
+3. Use filters (Year, State) to explore the data
+
+---
+
+## 📦 Data Source
+
+Dataset: Brazilian E-Commerce Public Dataset (Olist)
